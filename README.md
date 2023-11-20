@@ -1,3 +1,10 @@
+## Install dependencies
+# npm install
+
+## Link github
+# [https://github.com/carlosaw/new-next.git]
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
